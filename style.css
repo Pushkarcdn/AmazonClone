@@ -5,6 +5,14 @@
     font-family: 'Arial', Arial, sans-serif;
 }
 
+header {
+    min-width: 310px;
+}
+
+body {
+    min-width: 310px;
+}
+
 .navbar {
 
     height: 60px;
